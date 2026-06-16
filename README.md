@@ -1,4 +1,4 @@
-```md
+
 <h1 align="left">Hi, I'm Narava Venkat Siddharth</h1>
 
 <p align="left">
@@ -71,4 +71,3 @@ Email: siddharthnarva@gmail.com
 LinkedIn: https://www.linkedin.com/in/narva-siddharth  
 GitHub: https://github.com/sid1651  
 LeetCode: https://leetcode.com/u/badmintonplayer/
-```
