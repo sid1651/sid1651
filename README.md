@@ -6,7 +6,7 @@
 <!-- ════════════════════ TYPING ANIMATION ════════════════════ -->
 <div align="center">
   <a href="https://github.com/sid1651">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=8E2DE2&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;React+%E2%80%A2+Node.js+%E2%80%A2+TypeScript+%E2%80%A2+.NET;Real-Time+Systems+%26+WebSockets+%E2%9A%A1;Turning+Ideas+Into+Working+Products+%F0%9F%92%A1;Always+Learning%2C+Always+Building+%F0%9F%94%A5" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=8E2DE2&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%E2%80%A2+Node.js+%E2%80%A2+TypeScript+%E2%80%A2+.NET;Real-Time+Systems+%26+WebSockets;Turning+Ideas+Into+Working+Products;Always+Learning%2C+Always+Building" alt="Typing SVG" />
   </a>
 </div>
 
@@ -22,31 +22,31 @@
 <!-- ════════════════════ ABOUT ME ════════════════════ -->
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding GIF" />
 
-## 🧑‍💻 About Me
+## <img src="https://img.icons8.com/fluency/48/user-male-circle.png" width="30" align="top" alt="About" /> About Me
 
-- 🎓 Computer Science undergraduate, **graduating in 2026**
-- 🛠️ I build **full-stack web apps**, REST APIs, real-time collaboration systems, auth flows & dashboards
-- ⚡ Shipped **production-ready products** from idea → deploy
-- 🔍 I love debugging complex issues and solving real product problems
-- 🏸 When not coding, you'll find me on the badminton court
-- 📫 Reach me at **siddharthnarva@gmail.com**
+- Computer Science undergraduate, **graduating in 2026**
+- I build **full-stack web apps**, REST APIs, real-time collaboration systems, auth flows & dashboards
+- Shipped **production-ready products** from idea to deploy
+- I love debugging complex issues and solving real product problems
+- When not coding, you'll find me on the badminton court
+- Reach me at **siddharthnarva@gmail.com**
 
 <br clear="right"/>
 
 ---
 
 <!-- ════════════════════ TECH STACK ════════════════════ -->
-## 🚀 Tech Arsenal
+## <img src="https://img.icons8.com/fluency/48/console.png" width="30" align="top" alt="Tech Stack" /> Tech Arsenal
 
 <div align="center">
 
-### 💻 Languages & Frontend
+### <img src="https://img.icons8.com/fluency/48/source-code.png" width="22" align="top" alt="Frontend" /> Languages & Frontend
 <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind&perline=8" alt="Frontend Skills" />
 
-### ⚙️ Backend & Databases
+### <img src="https://img.icons8.com/fluency/48/database.png" width="22" align="top" alt="Backend" /> Backend & Databases
 <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,cs,mongodb,mysql&perline=8" alt="Backend Skills" />
 
-### 🧰 Tools & Platforms
+### <img src="https://img.icons8.com/fluency/48/administrative-tools.png" width="22" align="top" alt="Tools" /> Tools & Platforms
 <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,figma,vercel&perline=8" alt="Tools" />
 
 <br/>
@@ -63,37 +63,37 @@
 ---
 
 <!-- ════════════════════ FEATURED PROJECTS ════════════════════ -->
-## 🌟 Featured Projects
+## <img src="https://img.icons8.com/fluency/48/star.png" width="30" align="top" alt="Projects" /> Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ⚡ Kodikos — Real-Time Collaborative Code Editor
+### Kodikos — Real-Time Collaborative Code Editor
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white" />
 
 A real-time collaborative coding platform with room-based editing, live preview, built-in chat, project publishing, and multi-user synchronization.
 
-- 🔄 Live collaboration via WebSocket event flows
-- 👥 Room-based editing, user presence & shared project state
-- 🧩 Improved sync stability across browser sessions
-- 🚀 Led the project from **idea to deployed product**
+- Live collaboration via WebSocket event flows
+- Room-based editing, user presence & shared project state
+- Improved sync stability across browser sessions
+- Led the project from **idea to deployed product**
 
-🔗 **[Live Demo](https://kodikos.onrender.com/)** · **[GitHub](https://github.com/sid1651)**
+**[Live Demo](https://kodikos.onrender.com/)** · **[GitHub](https://github.com/sid1651)**
 
 </td>
 <td width="50%" valign="top">
 
-### 📦 Inventory & Order Management System
+### Inventory & Order Management System
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" /> <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
 
 Production-style modules for inventory, orders, role-based access, admin dashboards, automated dispatch workflows & cloud printing.
 
-- 🏗️ Built frontend + backend modules for order & inventory workflows
-- 🔐 REST APIs, validation, authentication & database operations
-- 🤖 Automation for order dispatch & warehouse label printing
+- Built frontend + backend modules for order & inventory workflows
+- REST APIs, validation, authentication & database operations
+- Automation for order dispatch & warehouse label printing
 
 </td>
 </tr>
@@ -102,11 +102,15 @@ Production-style modules for inventory, orders, role-based access, admin dashboa
 ---
 
 <!-- ════════════════════ GITHUB STATS ════════════════════ -->
-## 📊 GitHub Analytics
+## <img src="https://img.icons8.com/fluency/48/combo-chart.png" width="30" align="top" alt="Analytics" /> GitHub Analytics
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=sid1651&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=8E2DE2&icon_color=00C9FF&text_color=c9d1d9&ring_color=8E2DE2" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sid1651&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=8E2DE2&text_color=c9d1d9" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sid1651&theme=tokyonight" width="95%" alt="Profile Details" />
+</div>
+
+<div align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sid1651&theme=tokyonight" alt="GitHub Stats" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sid1651&theme=tokyonight" alt="Top Languages" />
 </div>
 
 <div align="center">
@@ -119,16 +123,10 @@ Production-style modules for inventory, orders, role-based access, admin dashboa
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sid1651&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=8E2DE2&line=00C9FF&point=ffffff&area=true&area_color=4A00E0" width="95%" alt="Contribution Graph" />
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sid1651&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="GitHub Trophies" />
-</div>
-
 ---
 
 <!-- ════════════════════ SNAKE ANIMATION ════════════════════ -->
-## 🐍 Contribution Snake
+## <img src="https://img.icons8.com/fluency/48/snake.png" width="30" align="top" alt="Snake" /> Contribution Snake
 
 <div align="center">
   <picture>
@@ -141,7 +139,7 @@ Production-style modules for inventory, orders, role-based access, admin dashboa
 ---
 
 <!-- ════════════════════ CONNECT ════════════════════ -->
-## 🤝 Let's Connect
+## <img src="https://img.icons8.com/fluency/48/handshake.png" width="30" align="top" alt="Connect" /> Let's Connect
 
 <div align="center">
   <a href="https://www.linkedin.com/in/narva-siddharth">
@@ -161,7 +159,7 @@ Production-style modules for inventory, orders, role-based access, admin dashboa
 <br/>
 
 <div align="center">
-  <i>💜 "Building practical software from scratch and turning ideas into working applications." 💜</i>
+  <i>"Building practical software from scratch and turning ideas into working applications."</i>
 </div>
 
 <!-- ════════════════════ ANIMATED FOOTER ════════════════════ -->
