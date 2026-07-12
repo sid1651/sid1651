@@ -1,73 +1,168 @@
+<!-- ════════════════════ ANIMATED HEADER ════════════════════ -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:4A00E0,100:00C9FF&height=220&section=header&text=Narava%20Venkat%20Siddharth&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Building%20Real-World%20Web%20Products&descSize=18&descAlignY=55" width="100%" />
+</div>
 
-<h1 align="left">Hi, I'm Narava Venkat Siddharth</h1>
+<!-- ════════════════════ TYPING ANIMATION ════════════════════ -->
+<div align="center">
+  <a href="https://github.com/sid1651">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=8E2DE2&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;React+%E2%80%A2+Node.js+%E2%80%A2+TypeScript+%E2%80%A2+.NET;Real-Time+Systems+%26+WebSockets+%E2%9A%A1;Turning+Ideas+Into+Working+Products+%F0%9F%92%A1;Always+Learning%2C+Always+Building+%F0%9F%94%A5" alt="Typing SVG" />
+  </a>
+</div>
 
-<p align="left">
-  Full Stack Developer | Computer Science Undergraduate | Building real-world web products
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=sid1651&style=for-the-badge&color=8E2DE2&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack-4A00E0?style=for-the-badge" alt="Focus" />
+  <img src="https://img.shields.io/badge/Class%20of-2026-00C9FF?style=for-the-badge" alt="Graduating 2026" />
+  <img src="https://img.shields.io/badge/Open%20to-Opportunities-success?style=for-the-badge" alt="Open to Opportunities" />
+</div>
+
+<br/>
+
+<!-- ════════════════════ ABOUT ME ════════════════════ -->
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding GIF" />
+
+## 🧑‍💻 About Me
+
+- 🎓 Computer Science undergraduate, **graduating in 2026**
+- 🛠️ I build **full-stack web apps**, REST APIs, real-time collaboration systems, auth flows & dashboards
+- ⚡ Shipped **production-ready products** from idea → deploy
+- 🔍 I love debugging complex issues and solving real product problems
+- 🏸 When not coding, you'll find me on the badminton court
+- 📫 Reach me at **siddharthnarva@gmail.com**
+
+<br clear="right"/>
 
 ---
 
-## About Me
+<!-- ════════════════════ TECH STACK ════════════════════ -->
+## 🚀 Tech Arsenal
 
-I am a Computer Science undergraduate graduating in 2026 with hands-on experience building full-stack web applications, REST APIs, real-time collaboration systems, authentication flows, dashboards, and production-ready products.
+<div align="center">
 
-I enjoy building practical software from scratch, solving real product problems, debugging complex issues, and turning ideas into working applications.
+### 💻 Languages & Frontend
+<img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind&perline=8" alt="Frontend Skills" />
+
+### ⚙️ Backend & Databases
+<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,cs,mongodb,mysql&perline=8" alt="Backend Skills" />
+
+### 🧰 Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,figma,vercel&perline=8" alt="Tools" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/WebSockets-8E2DE2?style=for-the-badge&logo=socketdotio&logoColor=white" />
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+<img src="https://img.shields.io/badge/REST%20APIs-4A00E0?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://img.shields.io/badge/RBAC%20%26%20Auth-00C9FF?style=for-the-badge&logo=auth0&logoColor=white" />
+<img src="https://img.shields.io/badge/DSA-FF6B6B?style=for-the-badge&logo=thealgorithms&logoColor=white" />
+
+</div>
 
 ---
 
-## What I Work With
+<!-- ════════════════════ FEATURED PROJECTS ════════════════════ -->
+## 🌟 Featured Projects
 
-**Frontend:** React.js, JavaScript, TypeScript, HTML5, CSS3, Tailwind CSS, Responsive UI  
-**Backend:** Node.js, Express.js, ASP.NET Core, REST APIs, WebSockets, Socket.IO  
-**Databases:** MongoDB, SQL Server, MySQL  
-**Tools:** Git, GitHub, Postman, VS Code, Chrome DevTools, Render, Vercel, Figma  
-**Concepts:** API Design, Authentication, RBAC, Microservices Basics, Docker, SDLC, DBMS, Data Structures and Algorithms
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+### ⚡ Kodikos — Real-Time Collaborative Code Editor
 
-## Featured Projects
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white" />
 
-### Kodikos — Real-Time Collaborative Code Editor
 A real-time collaborative coding platform with room-based editing, live preview, built-in chat, project publishing, and multi-user synchronization.
 
-**Tech Stack:** React.js, Node.js, Socket.IO, WebSockets
+- 🔄 Live collaboration via WebSocket event flows
+- 👥 Room-based editing, user presence & shared project state
+- 🧩 Improved sync stability across browser sessions
+- 🚀 Led the project from **idea to deployed product**
 
-- Built live collaboration features using WebSocket event flows
-- Implemented room-based editing, user presence, and shared project state
-- Improved sync stability across browser sessions
-- Led the project from idea to deployed product
+🔗 **[Live Demo](https://kodikos.onrender.com/)** · **[GitHub](https://github.com/sid1651)**
 
-Live: https://kodikos.onrender.com/  
-GitHub: https://github.com/sid1651
+</td>
+<td width="50%" valign="top">
 
----
+### 📦 Inventory & Order Management System
 
-### Full-Stack Inventory and Order Management Work
-Worked on production-style modules involving inventory, orders, role-based access, admin dashboards, automated dispatch workflows, and cloud-based printing.
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" /> <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
 
-**Tech Stack:** React.js, TypeScript, ASP.NET Core, SQL Server
+Production-style modules for inventory, orders, role-based access, admin dashboards, automated dispatch workflows & cloud printing.
 
-- Built frontend and backend modules for order and inventory workflows
-- Worked on REST APIs, validation, authentication, and database operations
-- Implemented automation-focused features for order dispatch and warehouse label printing
+- 🏗️ Built frontend + backend modules for order & inventory workflows
+- 🔐 REST APIs, validation, authentication & database operations
+- 🤖 Automation for order dispatch & warehouse label printing
 
----
-
-## GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sid1651&show_icons=true&hide_border=true&theme=default" height="150" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sid1651&layout=compact&hide_border=true&theme=default" height="150" />
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
-## Connect With Me
+<!-- ════════════════════ GITHUB STATS ════════════════════ -->
+## 📊 GitHub Analytics
 
-Email: siddharthnarva@gmail.com  
-LinkedIn: https://www.linkedin.com/in/narva-siddharth  
-GitHub: https://github.com/sid1651  
-LeetCode: https://leetcode.com/u/badmintonplayer/
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=sid1651&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=8E2DE2&icon_color=00C9FF&text_color=c9d1d9&ring_color=8E2DE2" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sid1651&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=8E2DE2&text_color=c9d1d9" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=sid1651&theme=tokyonight&hide_border=true&background=0d1117&ring=8E2DE2&fire=00C9FF&currStreakLabel=8E2DE2" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sid1651&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=8E2DE2&line=00C9FF&point=ffffff&area=true&area_color=4A00E0" width="95%" alt="Contribution Graph" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sid1651&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="GitHub Trophies" />
+</div>
+
+---
+
+<!-- ════════════════════ SNAKE ANIMATION ════════════════════ -->
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sid1651/sid1651/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sid1651/sid1651/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/sid1651/sid1651/output/github-snake-dark.svg" alt="Contribution Snake" />
+  </picture>
+</div>
+
+---
+
+<!-- ════════════════════ CONNECT ════════════════════ -->
+## 🤝 Let's Connect
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/narva-siddharth">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:siddharthnarva@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://leetcode.com/u/badmintonplayer/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://github.com/sid1651">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <i>💜 "Building practical software from scratch and turning ideas into working applications." 💜</i>
+</div>
+
+<!-- ════════════════════ ANIMATED FOOTER ════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:4A00E0,100:8E2DE2&height=140&section=footer" width="100%" />
